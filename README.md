@@ -18,6 +18,12 @@ Tools for web scraping like Selenium can scrape a large volume of data such as t
 
 ## Demo
 
+
+
+https://user-images.githubusercontent.com/85494641/169793978-3a5d8e1d-9198-4482-bb96-a731a7ddaa04.mp4
+
+
+
 ## License
 
 Open Sourse under - [MIT](https://choosealicense.com/licenses/mit/) license
