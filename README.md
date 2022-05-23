@@ -26,5 +26,3 @@ Open Sourse under - [MIT](https://choosealicense.com/licenses/mit/) license
 ## Authors
 
 - [Ankit Kumar](https://www.github.com/ankitkumar174)   - Mechatronics Engineer
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs) [![Github All Releases](https://img.shields.io/github/downloads/ankitkumar174/Car-Damage-Detective-Web-App/total.svg)]()
-![Contributors](https://img.shields.io/github/contributors/kuwarkapur/car-damage-detection?color=dark-green) ![Issues](https://img.shields.io/github/issues/kuwarkapur/car-damage-detection) 
